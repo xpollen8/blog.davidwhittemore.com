@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
+title: About
+link: /about
 ---
-
-first
