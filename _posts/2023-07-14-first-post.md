@@ -1,6 +1,5 @@
 ---
 title: "The Manifestor"
-description: The Why and how of the *manifestor* software module.
 date: 2023-07-17
 ---
 
