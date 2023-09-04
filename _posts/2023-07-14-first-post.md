@@ -33,10 +33,10 @@ The basic skeleton of a `manifest.json` file is:
 
 ```
 {
-	"title": "...",
-	"description": {},
-	"contents": {},
-	"history: {}
+  "title": "...",
+  "description": {},
+  "contents": {},
+  "history: {}
 }
 ```
 
@@ -44,44 +44,44 @@ Here is the expanded form:
 
 ```
 {
-	"title": "<title for this collection of files>"
-	"description": {
-		"summary": "<short summary of this collection of files>",
-		"details": {
-			"body": "<full description of this collection of files>",
-			"date": "<date collection published>",
-			"source": "<collection attribution>",
-		}
-	},
-	"contents": {
-		"file1.mp3": {
-			"title": "<short name of item>",
-			"name": "(optional)<to override 'file1.mp3'>",
-			"date": "<date published>",
-			"summary": "<short description of this item>,
-			"details": {
-				"body": "<full description of this item (history, source, etc)>,
-				"source": "<item attribution>",
-				"date": "<date item created>"
-			}
-		},
-		"file2.csv": {
-			... as above
-		},
-		"folder1": { "type": "folder" },
-		"https://ANOTHER_BUH.com/file.xxx": {
-			... as above
-		}
-	},
-	"history": {
-		{
-			"date": "<manifest last updated>",
-			"summary": "<description of changes made>"
-		},
-		{
-			... as above
-		}
-	}
+  "title": "<title for this collection of files>"
+  "description": {
+    "summary": "<short summary of this collection of files>",
+    "details": {
+      "body": "<full description of this collection of files>",
+      "date": "<date collection published>",
+      "source": "<collection attribution>",
+    }
+  },
+  "contents": {
+    "file1.mp3": {
+      "title": "<short name of item>",
+      "name": "(optional)<to override 'file1.mp3'>",
+      "date": "<date published>",
+      "summary": "<short description of this item>,
+      "details": {
+        "body": "<full description of this item (history, source, etc)>,
+        "source": "<item attribution>",
+        "date": "<date item created>"
+      }
+    },
+    "file2.csv": {
+      ... as above
+    },
+    "folder1": { "type": "folder" },
+    "https://ANOTHER_BUH.com/file.xxx": {
+      ... as above
+    }
+  },
+  "history": {
+    {
+      "date": "<manifest last updated>",
+      "summary": "<description of changes made>"
+    },
+    {
+      ... as above
+    }
+  }
 }
 ```
 
@@ -115,29 +115,29 @@ Manifest "contents" may be of three "types":
       "source": "David Whittemore"
     }
   },
-	"contents": {
-		"file1.mp3": {
-			"title": "Just an mp3",
-			"date": "2023-07-20",
-			"summary: "Brief summary of file contents",
-			"details": {
-				"body": "Full explaination of this file, how it was created, what it contains, why it is important",
-				"date": "2004-05-12",
-				"source": "David Whittemore"
-			}
-		},
-		"folder1": { "type": "folder" },
-		"https://adjective.com/audio/pos.mp3": {
-			"title": "Parts of Speech Theme Song",
-			"name": "20040512_POS_Theme.mp3",
-			"date": "2023-07-20",
-			"details": {
-				"body": "Created w/a single drum loop sample on an Ensoniq EPS16+",
-				"date": "2004-05-12",
-				"source": "David Whittemore"
-			}
-		}
-	}
+  "contents": {
+    "file1.mp3": {
+      "title": "Just an mp3",
+      "date": "2023-07-20",
+      "summary: "Brief summary of file contents",
+      "details": {
+        "body": "Full explaination of this file, how it was created, what it contains, why it is important",
+        "date": "2004-05-12",
+        "source": "David Whittemore"
+      }
+    },
+    "folder1": { "type": "folder" },
+    "https://adjective.com/audio/pos.mp3": {
+      "title": "Parts of Speech Theme Song",
+      "name": "20040512_POS_Theme.mp3",
+      "date": "2023-07-20",
+      "details": {
+        "body": "Created w/a single drum loop sample on an Ensoniq EPS16+",
+        "date": "2004-05-12",
+        "source": "David Whittemore"
+      }
+    }
+  }
 }
 ```
 
@@ -167,61 +167,61 @@ This is how you can create a `manifest.json` file to expose some files from thos
 
 + "Collect" the files to publish into a named directory:
 ```
-	mkdir jazzbutcher
-	cd jazzbutcher
-	ln -s /Volumes/Disk1/artist/jazz_butcher/music/smith.mp3 .
-	ln -s /Volumes/Disk1/artist/jazz_butcher/music/sex.mp3 .
-	ln -s /Volumes/Disk1/artist/jazz_butcher/images/pat.jpg .
+  mkdir jazzbutcher
+  cd jazzbutcher
+  ln -s /Volumes/Disk1/artist/jazz_butcher/music/smith.mp3 .
+  ln -s /Volumes/Disk1/artist/jazz_butcher/music/sex.mp3 .
+  ln -s /Volumes/Disk1/artist/jazz_butcher/images/pat.jpg .
 ```
 
 + Next, create a `jazzbutcher/manifest.json` file which has as _"contents"_, the files `smith.mp3`, `sex.mp3`, and `pat.jpg`
 
 > `jazzbutcher/manifest.json`
 ```
-	...
-	"contents": {
-		"smith.mp3": {
-			... name, description, details, etc
-		},
-		"sex.mp3": {
-			... name, description, details, etc
-		},
-		"pat.jpg": {
-			... name, description, details, etc
-		}
-	},
-	...
+  ...
+  "contents": {
+    "smith.mp3": {
+      ... name, description, details, etc
+    },
+    "sex.mp3": {
+      ... name, description, details, etc
+    },
+    "pat.jpg": {
+      ... name, description, details, etc
+    }
+  },
+  ...
 ```
 
 + Do similar for the `family folder contents:
 
 > `family/manifest.json`
 ```
-	...
-	"contents": {
-		"oral_history.mp3": {
-			... name, description, details, etc
-		},
-		"mom.jpg": {
-			... name, description, details, etc
-		},
-		"dad.jpg": {
-			... name, description, details, etc
-		}
-	},
-	...
+  ...
+  "contents": {
+    "oral_history.mp3": {
+      ... name, description, details, etc
+    },
+    "mom.jpg": {
+      ... name, description, details, etc
+    },
+    "dad.jpg": {
+      ... name, description, details, etc
+    }
+  },
+  ...
 ```
 
 + Finally, create a top level `manifest.json` file which points to those two collections:
 
 > `manifest.json`
 ```
-	...
-	"contents": {
-		"jazzbutcher": { "type": "folder" },
-		"family": { "type": "folder" },
-	}
-	...
+  ...
+  "contents": {
+    "jazzbutcher": { "type": "folder" },
+    "family": { "type": "folder" },
+  }
+  ...
 ```
 
 # Using the *manifestor* code
@@ -234,24 +234,24 @@ each of the "folder" items with the recursively-read `folder/manifest.json` file
 `package.json`:
 
 ```
-	{
-		...
-		"manifestor": "git+https://github.com/xpollen8/manifestor.git",
-		...
-	}
+  {
+    ...
+    "manifestor": "git+https://github.com/xpollen8/manifestor.git",
+    ...
+  }
 ```
 
 # In your code
 
 ```js
-	import fetchManifest, * as manifestor from 'manifestor';
+  import fetchManifest, * as manifestor from 'manifestor';
 
-	{
-		...
-		// where is the web server?
-		const root = process.env.MANIFEST_SERVER;
-		// lets fetch the fully-populated manifest JSON
-		const manifest = await fetchManifest({ root, recurse: true });
-		...
-	}
+  {
+    ...
+    // where is the web server?
+    const root = process.env.MANIFEST_SERVER;
+    // lets fetch the fully-populated manifest JSON
+    const manifest = await fetchManifest({ root, recurse: true });
+    ...
+  }
 ```
