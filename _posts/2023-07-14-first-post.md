@@ -161,9 +161,9 @@ And you want to share these files:
 + `/Volumes/Disk2/family/history/photographs/dad.jpg`
 + `/Volumes/Disk2/family/history/oral_history.mp3`
 
-This is how you can create a `manifest.json` file to expose some files from those drives **without** copying!
+# **Symlinks are your friend**
 
-**Symlinks are your friend**
+> Let's create a `manifest.json` file to expose some files from those drives **without** copying!
 
 + "Collect" the files to publish into a named directory:
 ```
