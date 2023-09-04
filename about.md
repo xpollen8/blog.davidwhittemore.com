@@ -6,7 +6,7 @@ permalink: /about/
 
 I will be publishing some of the solutions that I've implemented to solve various technical challenges.
 
-*Some are links of interest:*
+*Some links of interest:*
 * [/now page](https://davidwhittemore.com/now) a relatively up-to-date snapshot of what's keeping me busy.
 * [Resume](https://davidwhittemore.com/resume) 
 * [Github](https://github.com/xpollen8) 
