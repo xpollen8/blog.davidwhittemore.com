@@ -10,7 +10,7 @@ I only found out today - <a href="https://en.wikipedia.org/wiki/Liz_Wilde">by re
 
 <img alt="Anne and Me" src="/assets/images/1970_anne_and_me.jpg" width="80%">
 
-This is a trippy double exposure of me and my one-year-younger cousin on the 700 West farm
+This is a trippy double exposure of me and my one-year-younger cousin on the [700 West](https://700west.com) farm
 in spring of 1970.
 
 # Family
@@ -20,21 +20,23 @@ Over the course of nearly 2 decades, my grandmother birthed six boys and (finall
 My father was the eldest, and my cousin Anne's father, Paul, was the
 second eldest.
 
-My uncle Paul was always "edgy", sarcastic, whip smart, handsome.  Anne's mother died early of cancer.
+My uncle Paul was always "edgy", sarcastic, whip smart, handsome.
 
 <img alt="Uncle Paul" src="https://davidwhittemore.com/images/gallery/paul_whittemore.jpg" width="80%">
 
 When Anne was a teen, both of her younger brothers were killed while riding a moped - hit by a drunk driver. 
-For decades afterwards, Paul lived alone, drinking away his early retirement.
-I only saw him at rare family gatherings and at the funerals of his parents.
+Then, Anne's mother died of cancer.
 
-In the late 2010's, Paul would finally die - alone, impoverished, unrecognizable with dementia.
+Paul lived decades alone, drinking away his early retirement.
+I only saw him at family gatherings and finally at the funerals of his parents.
 
-For reasons not explained to me, Anne refered to Paul as her "bio dad",
-and kept her distance.  This distance grew to include the rest of the extended family.
-While she and I occasionally traded letters, and later a few emails, we (in the family tradition) were in no way "close".  I would characterize it as that we had the typical Whittemore family understanding: you're doing your thing - that's cool!
+In the 2010's, Paul would finally die - standoff-ish, impoverished, unrecognizable with dementia.
 
-Anne would spend her professional career far from her Midwestern birthplace, and her last decades
+For reasons not explained to me, Anne refered to Paul as her "bio dad", and she kept her distance.
+While she and I traded letters after college, and later a few emails, we (in the family tradition) were not "close".
+We had the typical Whittemore family understanding: you're doing your thing - that's cool!
+
+Anne would spend her professional career skirting her Midwestern birthplace, and her last decades
 were spent far down in southern Florida.
 
 # Career
@@ -43,10 +45,12 @@ Anne was a Whittemore in the truest sense: we tend to set our own sails and foll
 our own paths, absurd and interesting, intense and focussed.  The opinions of
 would-be detractors serve as fuel to continue on against criticism.
 
+<img alt="Liz Wilde" src="/assets/images/20250529_LizWilde.jpg" width="80%">
+
 The Wikipedia page cover her radio career in depth, but in summary: Anne had
 a good 20 year run as a "shock jock" radio presence, known as "Liz Wilde"
 
-Typical of rememberences:
+Typical of online rememberences:
 
 <blockquote>
 On Wednesday, October 9, the radio industry lost one of its most captivating voices, Liz Wilde, who passed away of natural causes. Her groundbreaking contributions, unmatched wit, and bold presence left an indelible mark on rock radio and the countless fans who followed her career.
@@ -56,7 +60,7 @@ Often referred to as “the female Howard Stern,” Liz Wilde was unapologetical
 
 # Post-Liz
 
-<img alt="Anne and Me" src="/assets/images/20220705_LeeFirestone.jpg" width="80%">
+<img alt="Lee Firestone and Anne" src="/assets/images/20220705_LeeFirestone.jpg" width="80%">
 
 Anne eventually married, but never had children.  Her husband was also in radio, and they
 opened an art gallery.  I never met him.
@@ -65,7 +69,7 @@ In reading Anne's obituary, I discovered that her husband Lee Firestone had met 
 
 Had I known what she was going through, had she shared with anyone, we would have reached out.  We Whittemores are not without empathy.  We're just horrible at asking for it.
 
-<img alt="Anne and Me" src="/assets/images/20230325_fundraiser.jpg" width="80%">
+<img alt="Cancer Fundraiser" src="/assets/images/20230325_fundraiser.jpg" width="80%">
 
 This little remembrance is an attempt to cement *something* about her life before domains expire and traces of what she was cease to exist.
 
