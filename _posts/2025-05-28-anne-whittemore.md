@@ -20,7 +20,7 @@ Over the course of nearly 2 decades, my grandmother birthed six boys and (finall
 <img alt="Famiily" src="/assets/images/anne_whittemore/1950s_WhittemoreFamily.jpg" width="80%">
 
 My father was the eldest, and my cousin Anne's father, Paul, was the second eldest.
-My uncle Paul was always "edgy", sarcastic, whip smart, handsome.
+My uncle Paul (upper left) was always "edgy", sarcastic, whip smart, handsome.
 
 <img alt="Cousins" src="/assets/images/anne_whittemore/20110501_anniemichaeljeffrey.jpg" width="80%">
 
