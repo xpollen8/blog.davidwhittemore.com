@@ -35,9 +35,14 @@ In the 2010's, Paul would finally die - standoff-ish, impoverished, unrecognizab
 For reasons not explained to me, Anne refered to Paul as her "bio dad", and she kept her distance.
 While she and I traded letters after college, and later a few emails, we (in the family tradition) were not "close".
 We had the typical Whittemore family understanding: you're doing your thing - that's cool!
+When we did meet up once on the East Coast in the mid-90s, we discovered that we both had purchased
+to the same oddball model of car - 1991 Toyota MR2 Turbo.
+
+<img alt="1992 MR2 Turbo" src="https://davidwhittemore.com/images/mr2_big.gif" width="80%">
 
 Anne would spend her professional career skirting her Midwestern birthplace, and her last decades
-were spent far down in southern Florida.
+were spent far down in southern Florida where she ran a gallery. Her social media was littered
+with sunsets and beach shots.
 
 # Career
 
