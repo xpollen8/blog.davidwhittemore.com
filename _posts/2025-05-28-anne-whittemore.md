@@ -64,7 +64,7 @@ In reading Anne's obituary, I discovered that her husband Lee Firestone had met 
 
 Had I known what she was going through, had she shared with anyone, we would have reached out.  We Whittemores are not without empathy.  We're just horrible in asking for it.
 
-This little rememberance is an attempt to cement *something* about her life before domains expire and traces of what she was cease to exist.
+This little remembrance is an attempt to cement *something* about her life before domains expire and traces of what she was cease to exist.
 
 I'm sorry we were not able to be closer, cousin.  I hope to be more present for those who remain.
 
