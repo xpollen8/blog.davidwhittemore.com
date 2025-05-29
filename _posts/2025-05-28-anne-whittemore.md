@@ -8,7 +8,7 @@ date: 2025-05-26
 
 I only found out today - <a href="https://en.wikipedia.org/wiki/Liz_Wilde">by reading about it on Wikipedia(!)</a> - that my cousin, Anne Whittemore, had died last year.
 
-<img alt="Anne and Me" src="assets/images/1970_anne_and_me.jpg" width="80%">
+<img alt="Anne and Me" src="/assets/images/1970_anne_and_me.jpg" width="80%">
 
 This is a trippy double exposure of me and my cousin on the 700 West farm
 in spring of 1970.
