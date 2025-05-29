@@ -34,9 +34,8 @@ I only saw him at family gatherings and finally at the funerals of his parents.
 
 In the 2010's, Paul would finally die - standoff-ish, impoverished, unrecognizable with dementia.
 
-For reasons not explained to me, Anne refered to Paul as her "bio dad", and she kept her distance.
-While she and I traded letters after college, and later a few emails, we (in the family tradition) were not "close".
-We had the typical Whittemore family understanding: you're doing your thing - that's cool!
+While Anne and I traded letters after college, and later a few emails, we (in the family tradition) were not "close".
+We had the family understanding: you're doing your thing - that's cool!
 When we did meet up once on the East Coast in the mid-90s, we discovered that we both had purchased
 to the same oddball model of car - 1991 Toyota MR2 Turbo.
 
