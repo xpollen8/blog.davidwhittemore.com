@@ -20,8 +20,7 @@ Over the course of nearly 2 decades, my grandmother birthed six boys and (finall
 My father was the eldest, and my cousin Anne's father, Paul, was the
 second eldest.
 
-My uncle Paul was always "edgy", sarcastic, whip smart, handsome.  Paul's wife died
-young of cancer.
+My uncle Paul was always "edgy", sarcastic, whip smart, handsome.  Anne's mother died early of cancer.
 
 <img alt="Uncle Paul" src="https://davidwhittemore.com/images/gallery/paul_whittemore.jpg" width="80%">
 
@@ -62,7 +61,9 @@ opened an art gallery.  I never met him.
 
 In reading Anne's obituary, I discovered that her husband Lee Firestone had met his own end just a year before Anne - in an industrial accident.
 
-Had I known what she was going through, had she shared with anyone, we would have reached out.  We Whittemores are not without empathy.  We're just horrible in asking for it.
+Had I known what she was going through, had she shared with anyone, we would have reached out.  We Whittemores are not without empathy.  We're just horrible at asking for it.
+
+<img alt="Anne and Me" src="/assets/images/20230325_fundraiser.jpg" width="80%">
 
 This little remembrance is an attempt to cement *something* about her life before domains expire and traces of what she was cease to exist.
 
