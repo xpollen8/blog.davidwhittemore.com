@@ -50,8 +50,11 @@ would-be detractors serve as fuel to continue on against criticism.
 
 <img alt="Liz Wilde" src="/assets/images/anne_whittemore/20250529_LizWilde.jpg" width="80%">
 
-The Wikipedia page cover her radio career in depth, but in summary: Anne had
+<a href="https://en.wikipedia.org/wiki/Liz_Wilde">The Wikipedia page covers her radio career in depth</a>, but in summary: Anne had
 a good 20 year run as a "shock jock" radio presence, known as "Liz Wilde"
+
+She left an impression as the first woman with a voice in the of shock jock universe. She was especially
+good apparently at interviewing.
 
 Typical of online rememberences:
 
