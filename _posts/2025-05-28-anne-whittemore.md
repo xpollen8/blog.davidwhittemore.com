@@ -6,9 +6,9 @@ date: 2025-05-26
 # Anne Whittemore
 <b>1965-10-27 -> 2024-10-09</b>
 
-I only found out today - <a href="https://en.wikipedia.org/wiki/Liz_Wilde">by reading about it on Wikipedia(!)</a> - that my cousin, Anne Whittemore, had died last year.
+Today I discovered - <a href="https://en.wikipedia.org/wiki/Liz_Wilde">by reading about it on Wikipedia(!)</a> - that my cousin, Anne Whittemore, had died last year.
 
-<img alt="Anne and Me" src="/assets/images/1970_anne_and_me.jpg" width="80%">
+<img alt="Anne and Me" src="/assets/images/anne_whittemore/1970_anne_and_me.jpg" width="80%">
 
 This is a trippy double exposure of me and my one-year-younger cousin on the [700 West](https://700west.com) farm
 in spring of 1970.
@@ -17,18 +17,20 @@ in spring of 1970.
 
 Over the course of nearly 2 decades, my grandmother birthed six boys and (finally!) one girl.
 
-My father was the eldest, and my cousin Anne's father, Paul, was the
-second eldest.
+<img alt="Famiily" src="/assets/images/anne_whittemore/1950s_WhittemoreFamily.jpg" width="80%">
 
+My father was the eldest, and my cousin Anne's father, Paul, was the second eldest.
 My uncle Paul was always "edgy", sarcastic, whip smart, handsome.
 
-<img alt="Uncle Paul" src="https://davidwhittemore.com/images/gallery/paul_whittemore.jpg" width="80%">
+<img alt="Cousins" src="/assets/images/anne_whittemore/20110501_anniemichaeljeffrey.jpg" width="80%">
 
 When Anne was a teen, both of her younger brothers were killed while riding a moped - hit by a drunk driver. 
 Then, Anne's mother died of cancer.
 
 Paul lived decades alone, drinking away his early retirement.
 I only saw him at family gatherings and finally at the funerals of his parents.
+
+<img alt="Uncle Paul" src="https://davidwhittemore.com/images/gallery/paul_whittemore.jpg" width="80%">
 
 In the 2010's, Paul would finally die - standoff-ish, impoverished, unrecognizable with dementia.
 
@@ -38,11 +40,7 @@ We had the typical Whittemore family understanding: you're doing your thing - th
 When we did meet up once on the East Coast in the mid-90s, we discovered that we both had purchased
 to the same oddball model of car - 1991 Toyota MR2 Turbo.
 
-<img alt="1992 MR2 Turbo" src="https://davidwhittemore.com/images/mr2_big.gif" width="80%">
-
-Anne would spend her professional career skirting her Midwestern birthplace, and her last decades
-were spent far down in southern Florida where she ran a gallery. Her social media was littered
-with sunsets and beach shots.
+<img alt="1992 MR2 Turbo" src="https://davidwhittemore.com/images/mr2_big.gif" width="40%">
 
 # Career
 
@@ -50,7 +48,7 @@ Anne was a Whittemore in the truest sense: we tend to set our own sails and foll
 our own paths, absurd and interesting, intense and focussed.  The opinions of
 would-be detractors serve as fuel to continue on against criticism.
 
-<img alt="Liz Wilde" src="/assets/images/20250529_LizWilde.jpg" width="80%">
+<img alt="Liz Wilde" src="/assets/images/anne_whittemore/20250529_LizWilde.jpg" width="80%">
 
 The Wikipedia page cover her radio career in depth, but in summary: Anne had
 a good 20 year run as a "shock jock" radio presence, known as "Liz Wilde"
@@ -65,7 +63,16 @@ Often referred to as “the female Howard Stern,” Liz Wilde was unapologetical
 
 # Post-Liz
 
-<img alt="Lee Firestone and Anne" src="/assets/images/20220705_LeeFirestone.jpg" width="80%">
+<img alt="Gallery" src="/assets/images/anne_whittemore/20110501_annieatchristmasvillageofthearts.jpg" width="80%">
+
+Anne would spend her professional career skirting her Midwestern birthplace, and her last decades
+were spent far down in southern Florida where she ran a gallery.
+
+<img alt="Beach" src="/assets/images/anne_whittemore/20110501_annieandleebeach.jpg" width="80%">
+
+Her social media was littered with sunsets and beach shots.
+
+<img alt="Lee Firestone and Anne" src="/assets/images/anne_whittemore/20220705_LeeFirestone.jpg" width="80%">
 
 Anne eventually married, but never had children.  Her husband was also in radio, and they
 opened an art gallery.  I never met him.
@@ -74,7 +81,7 @@ In reading Anne's obituary, I discovered that her husband Lee Firestone had met 
 
 Had I known what she was going through, had she shared with anyone, we would have reached out.  We Whittemores are not without empathy.  We're just horrible at asking for it.
 
-<img alt="Cancer Fundraiser" src="/assets/images/20230325_fundraiser.jpg" width="80%">
+<img alt="Cancer Fundraiser" src="/assets/images/anne_whittemore/20230325_fundraiser.jpg" width="80%">
 
 This little remembrance is an attempt to cement *something* about her life before domains expire and traces of what she was cease to exist.
 
