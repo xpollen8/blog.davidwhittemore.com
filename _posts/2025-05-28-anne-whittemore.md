@@ -56,6 +56,8 @@ Often referred to as “the female Howard Stern,” Liz Wilde was unapologetical
 
 # Post-Liz
 
+<img alt="Anne and Me" src="/assets/images/20220705_LeeFirestone.jpg" width="80%">
+
 Anne eventually married, but never had children.  Her husband was also in radio, and they
 opened an art gallery.  I never met him.
 
