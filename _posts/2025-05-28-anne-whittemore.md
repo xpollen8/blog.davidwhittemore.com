@@ -35,7 +35,7 @@ I only saw him at family gatherings and finally at the funerals of his parents.
 In the 2010's, Paul would finally die - standoff-ish, impoverished, unrecognizable with dementia.
 
 While Anne and I traded letters after college, and later a few emails, we (in the family tradition) were not "close".
-We had the family understanding: you're doing your thing - that's cool!
+We had the Whittemore understanding: you're doing your thing - that's cool!
 When we did meet up once on the East Coast in the mid-90s, we discovered that we both had purchased
 to the same oddball model of car - 1991 Toyota MR2 Turbo.
 
@@ -55,7 +55,7 @@ a good 20 year run as a "shock jock" radio presence, known as "Liz Wilde"
 She left an impression as the first woman with a voice in the shock jock universe. She was especially
 good apparently at interviewing.
 
-Typical of online rememberences:
+Typical of online remembrances:
 
 <blockquote>
 On Wednesday, October 9, the radio industry lost one of its most captivating voices, Liz Wilde, who passed away of natural causes. Her groundbreaking contributions, unmatched wit, and bold presence left an indelible mark on rock radio and the countless fans who followed her career.
